@@ -33,3 +33,9 @@ body {
   display: flex;
   gap: 8px;
 }
+.active{
+  display: block;
+}
+.hidden{
+  display:none;
+}
